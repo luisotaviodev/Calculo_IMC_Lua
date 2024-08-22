@@ -29,4 +29,4 @@ Lembre-se de que o IMC é apenas uma ferramenta de triagem e não leva em consid
 
 ## Desenvolvimento 🚀
 
-Este projeto foi desenvolvido com Lua.
+Este projeto foi desenvolvido com a Linguagem Lua.
